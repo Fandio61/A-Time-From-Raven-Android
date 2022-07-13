@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "renpy/common/00keymap.rpy", line 361, in script
+    init -1100 python:
+  File "renpy/common/00keymap.rpy", line 366, in <module>
+    rollback = _Skip,
+NameError: name '_Skip' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/00keymap.rpy", line 361, in script
+    init -1100 python:
+  File "D:\Ren'Py 7.3.2\renpy\ast.py", line 912, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "D:\Ren'Py 7.3.2\renpy\python.py", line 2004, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "renpy/common/00keymap.rpy", line 366, in <module>
+    rollback = _Skip,
+NameError: name '_Skip' is not defined
+
+Windows-7-6.1.7601-SP1
+Ren'Py 7.3.2.320
+ 
+Sun Nov 08 22:55:58 2020

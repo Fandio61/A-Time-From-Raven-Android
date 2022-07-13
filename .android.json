@@ -1,0 +1,1 @@
+{"layout": null, "orientation": "sensorLandscape", "package": "com.fandiolado.atimefromraven", "include_pil": false, "expansion": false, "name": "A Time From Raven Beta", "update_always": false, "source": false, "icon_name": "A Time From Raven", "version": "1.0", "update_icons": true, "permissions": ["VIBRATE"], "numeric_version": "100", "include_sqlite": false, "store": "none"}

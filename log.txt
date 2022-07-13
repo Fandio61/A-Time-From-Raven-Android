@@ -1,0 +1,33 @@
+Tue Nov 10 20:19:41 2020
+Windows-7-6.1.7601-SP1
+Ren'Py 7.3.2.320
+ 
+
+Bootstrap to the start of init.init took 0.35s
+Early init took 0.02s
+Loader init took 0.09s
+Loading error handling took 0.88s
+Loading script took 13.86s
+Loading save slot metadata. took 0.19s
+Loading persistent took 0.01s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.94s
+Loading analysis data took 0.00s
+Analyze and compile ATL took 0.21s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Fandio\\AppData\\Roaming/RenPy/backups\\A Time From Raven Beta':
+Dump and make backups. took 0.29s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.10s
+DPI scale factor: 1.000000
+Creating interface object took 0.11s
+Cleaning stores took 0.00s
+Init translation took 0.11s
+Build styles took 0.03s
+Load screen analysis took 0.00s
+Analyze screens took 0.15s
+Save screen analysis took 0.26s
+Prepare screens took 0.52s
+Save pyanalysis. took 0.35s
+Save bytecode. took 0.28s

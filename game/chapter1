@@ -1,0 +1,10 @@
+label chapter1:
+define rb = Character('Raven', color="#c8ffc8")
+define N = Character('Nita', color="#c8ffc8")
+define O = Character('orang lain', color="#c8ffc8")
+define t = Character('???', color="#c8ffc8")
+
+""
+rb "{cps=25}{i}'apa yang terjadi padaku?'{/i}"
+
+return

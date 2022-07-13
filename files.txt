@@ -1,0 +1,244 @@
+Prolog1.rpy
+Prolog1.rpyc
+gui.rpy
+gui.rpyc
+main.mp3
+menu.mp3
+options.rpy
+options.rpyc
+prolog.rpy
+prolog.rpyc
+screens.rpy
+screens.rpyc
+script.rpy
+script.rpyc
+assets\main (1).jpg
+assets\main (10).jpg
+assets\main (11).jpg
+assets\main (12).jpg
+assets\main (13).jpg
+assets\main (14).jpg
+assets\main (15).jpg
+assets\main (16).jpg
+assets\main (17).jpg
+assets\main (18).jpg
+assets\main (19).jpg
+assets\main (2).jpg
+assets\main (20).jpg
+assets\main (21).jpg
+assets\main (22).jpg
+assets\main (23).jpg
+assets\main (24).jpg
+assets\main (25).jpg
+assets\main (26).jpg
+assets\main (27).jpg
+assets\main (28).jpg
+assets\main (29).jpg
+assets\main (3).jpg
+assets\main (30).jpg
+assets\main (31).jpg
+assets\main (32).jpg
+assets\main (33).jpg
+assets\main (34).jpg
+assets\main (35).jpg
+assets\main (36).jpg
+assets\main (37).jpg
+assets\main (38).jpg
+assets\main (39).jpg
+assets\main (4).jpg
+assets\main (40).jpg
+assets\main (41).jpg
+assets\main (42).jpg
+assets\main (43).jpg
+assets\main (44).jpg
+assets\main (45).jpg
+assets\main (46).jpg
+assets\main (47).jpg
+assets\main (48).jpg
+assets\main (49).jpg
+assets\main (5).jpg
+assets\main (50).jpg
+assets\main (51).jpg
+assets\main (52).jpg
+assets\main (53).jpg
+assets\main (54).jpg
+assets\main (55).jpg
+assets\main (56).jpg
+assets\main (57).jpg
+assets\main (58).jpg
+assets\main (59).jpg
+assets\main (6).jpg
+assets\main (60).jpg
+assets\main (61).jpg
+assets\main (62).jpg
+assets\main (63).jpg
+assets\main (64).jpg
+assets\main (65).jpg
+assets\main (66).jpg
+assets\main (67).jpg
+assets\main (68).jpg
+assets\main (69).jpg
+assets\main (7).jpg
+assets\main (70).jpg
+assets\main (71).jpg
+assets\main (72).jpg
+assets\main (73).jpg
+assets\main (74).jpg
+assets\main (75).jpg
+assets\main (76).jpg
+assets\main (77).jpg
+assets\main (78).jpg
+assets\main (8).jpg
+assets\main (9).jpg
+cache\bytecode.rpyb
+cache\pyanalysis.rpyb
+cache\screens.rpyb
+gui\frame.png
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\notify.png
+gui\nvl.png
+gui\skip.png
+gui\small.png
+gui\textbox.png
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\left.png
+gui\bar\right.png
+gui\bar\top.png
+gui\button\check_foreground.png
+gui\button\check_selected_foreground.png
+gui\button\choice_hover_background.png
+gui\button\choice_idle_background.png
+gui\button\hover_background.png
+gui\button\idle_background.png
+gui\button\quick_hover_background.png
+gui\button\quick_idle_background.png
+gui\button\radio_foreground.png
+gui\button\radio_selected_foreground.png
+gui\button\slot_hover_background.png
+gui\button\slot_idle_background.png
+gui\overlay\confirm.png
+gui\overlay\game_menu.png
+gui\overlay\main_menu.png
+gui\phone\nvl.png
+gui\phone\textbox.png
+gui\phone\bar\bottom.png
+gui\phone\bar\left.png
+gui\phone\bar\right.png
+gui\phone\bar\top.png
+gui\phone\button\check_foreground.png
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_idle_background.png
+gui\phone\button\hover_background.png
+gui\phone\button\idle_background.png
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_idle_background.png
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\main_menu.png
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_thumb.png
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_thumb.png
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_thumb.png
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_thumb.png
+images\Bg\bg belakang sekolah.jpg
+images\Bg\bg dalam kelas.jpg
+images\Bg\bg depan sekolah.jpg
+images\Bg\bg gudang.jpg
+images\Bg\bg halte.jpg
+images\Bg\bg kamar berantakan.jpg
+images\Bg\bg kamar rapi.jpg
+images\Bg\bg kantin.jpg
+images\Bg\bg lorong.jpg
+images\Bg\bg luar kelas.jpg
+images\Bg\bg meja makan.jpg
+images\Bg\bg perpus.jpg
+images\Bg\bg pintu kamar.jpg
+images\Bg\bg rumah mei.jpg
+images\Bg\bg rumah raven.jpg
+images\Bg\black.jpg
+images\Bg\ending.jpg
+images\Bg\game over.jpg
+images\Nita\2.png
+images\Nita\6.png
+images\Nita\Nita Berbicara.png
+images\Nita\Nita Crazy.png
+images\Nita\Nita Gila.png
+images\Nita\Nita Kill.png
+images\Nita\Nita Senyum.png
+images\Nita\Nita Tersenyum.png
+images\Nita\Nita Tunduk.png
+images\Nita\Nita Tutup.png
+images\RavenBefore\Raven Berbicara.png
+images\RavenBefore\Raven Berpikir.png
+images\RavenBefore\Raven Diam.png
+images\RavenBefore\Raven Die.png
+images\RavenBefore\Raven Marah.png
+images\Scene\scene astrid bahaya.jpg
+images\Scene\scene astrid mengalahkan.jpg
+images\Scene\scene berita pembunuhan.jpg
+images\Scene\scene ibu raven memasak.jpg
+images\Scene\scene jam 3.jpg
+images\Scene\scene jam 8.jpg
+images\Scene\scene kalender.jpg
+images\Scene\scene mei dilempari.jpg
+images\Scene\scene mei kelas.jpg
+images\Scene\scene mei menangis.jpg
+images\Scene\scene mei menunggu.jpg
+images\Scene\scene mei paham.jpg
+images\Scene\scene mei raven mati.jpg
+images\Scene\scene mei terbunuh.jpg
+images\Scene\scene raven astrid kantin.jpg
+images\Scene\scene raven astrid1.jpg
+images\Scene\scene raven astrid2.jpg
+images\Scene\scene raven berhenti.jpg
+images\Scene\scene raven jam.jpg
+images\Scene\scene raven mei lari.jpg
+images\Scene\scene raven mei mengejar.jpg
+images\Scene\scene raven mei tidur.jpg
+images\Scene\scene raven memeluk.jpg
+images\Scene\scene raven mengangis.jpg
+images\Scene\scene raven meninggal.jpg
+images\Scene\scene raven menulis.jpg
+images\Scene\scene raven terbunuh.jpg
+images\Scene\scene raven ultah1.jpg
+images\Scene\scene raven ultah2.jpg
+saves\_reload-2-LT1.save
+saves\auto-10-LT1.save
+saves\auto-9-LT1.save
+saves\bertemu-LT1.save
+saves\navigation.json
+saves\persistent
+tl\None\common.rpym
+tl\None\common.rpymc
